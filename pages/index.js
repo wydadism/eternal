@@ -155,7 +155,7 @@ const Home = () => (
           </GridItem>
           <GridItem
             title="16/02/2022"
-            thumbnail={thumbYouTubesss}
+            thumbnail={thumbYouTubessss}
           >
             She said I love you! ♥
           </GridItem>
@@ -165,7 +165,7 @@ const Home = () => (
           <GridItem
             href="https://www.google.com/maps/dir//rouange+rooftop+rabat+map/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xda76b4173dbc6a1:0x6b95f396b9b52fca?sa=X&ved=2ahUKEwjhsuLuw6n2AhVpSvEDHWNOCWQQ9Rd6BAgHEAU"
             title="21/02/2022"
-            thumbnail={thumbYouTubessss}
+            thumbnail={thumbYouTubesssss}
           >
             The best phone call ever! ♥
           </GridItem>
