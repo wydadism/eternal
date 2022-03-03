@@ -149,7 +149,7 @@ const Home = () => (
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
             title="14/02/2022"
-            thumbnail={thumbYouTubess}
+            thumbnail={thumbYouTubesss}
           >
             The merge! ♥
           </GridItem>
