@@ -42,15 +42,15 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
       >
-        For a long time, she held a special place in my heart. I kept this special place just for her, like a "Reserved" sign on a quiet corner table in a restaurant.
+        For a long time, she held a special place in my heart. I kept this special place just for her, like a "Reserved" sign on a quiet corner table in a restaurant. ♥
       </Box>
 
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
-            Salma Dhimene
+            Salma Dhimene ♥
           </Heading>
-          <p> My Future wife</p>
+          <p> My Future wife ♥</p>
         </Box>
         <Box
           flexShrink={0}
