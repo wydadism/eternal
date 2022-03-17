@@ -120,7 +120,7 @@ const Home = () => (
                First Date "Rabat" & First Kiss "La collisée"♥.
         </BioSection>
          <BioSection>
-          <BioYear>March 10-14,  &nbsp;&nbsp;2022&nbsp;&nbsp;</BioYear>
+          <BioYear>March 10-14,  &nbsp;&nbsp;2022&nbsp;</BioYear>
           First weekend together "Sidi Rahal"♥.
         </BioSection>
       </Section>
