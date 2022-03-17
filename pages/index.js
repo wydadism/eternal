@@ -116,12 +116,12 @@ const Home = () => (
           She said : "I love you ♥".
         </BioSection>
         <BioSection>
-          <BioYear>March 1st, 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BioYear>
+          <BioYear>March 1st,     2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BioYear>
                First Date "Rabat" & First Kiss "La collisée"♥.
         </BioSection>
          <BioSection>
-          <BioYear>March 10-14, 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BioYear>
-               First weekend together "Sidi Rahal"♥.
+          <BioYear>March 10-14,   2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</BioYear>
+          First weekend together "Sidi Rahal"♥.
         </BioSection>
       </Section>
 
