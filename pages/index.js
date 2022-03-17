@@ -30,6 +30,10 @@ import thumbYouTubess from '../public/images/links/youtube2.png'
 import thumbYouTubesss from '../public/images/links/youtube3.png'
 import thumbYouTubessss from '../public/images/links/youtube4.png'
 import thumbYouTubesssss from '../public/images/links/youtube5.png'
+import thumbYouTubessssss from '../public/images/links/youtube6.png'
+import thumbYouTubesssssss from '../public/images/links/youtube7.png'
+import thumbYouTubessssssss from '../public/images/links/youtube8.png'
+import thumbYouTubesssssssss from '../public/images/links/youtube9.png'
 import thumbInkdrop from '../public/images/works/inkdrop_eyecatch.png'
 
 const Home = () => (
@@ -176,6 +180,36 @@ const Home = () => (
           >
             First date ♥
           </GridItem>
+        </SimpleGrid>
+        <SimpleGrid columns={[1, 2, 2]} gap={6}>
+          <GridItem
+            title="10/03/2022"
+            thumbnail={thumbYouTubessssss}
+          >
+            OMG She is coming! ♥
+          </GridItem>
+          <GridItem
+            title="11/03/2022"
+            thumbnail={thumbYouTubessssssss}
+          >
+            If I know what love is, it is because of you! ♥
+          </GridItem>
+
+        </SimpleGrid>
+        <SimpleGrid columns={[1, 2, 2]} gap={6}>
+          <GridItem
+            title="12/03/2022"
+            thumbnail={thumbYouTubesssssss}
+          >
+            Sempre insieme! ♥
+          </GridItem>
+          <GridItem
+            title="13/03/2022"
+            thumbnail={thumbYouTubesssssssss}
+          >
+            The RIGHT man will put a RING on the Right finger! ♥
+          </GridItem>
+
         </SimpleGrid>
       </Section>
     </Container>
