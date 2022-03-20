@@ -100,6 +100,19 @@ const Home = () => (
       </Section>
 
       <Section delay={0.2}>
+        #div1{height:30px; width:400px;background-color:red}
+#div2{height:300px; width:400px; background-color:yellow}
+#div3{height:30px; width:400px; background-color:green}
+#main
+{-webkit-filter: blur(5px);
+-moz-filter: blur(5px);
+-o-filter: blur(5px);
+-ms-filter: blur(5px);
+filter: blur(5px);
+width: 100px;
+height: 100px;
+background-color: #ccc;}
+#login{position:relative; top:180px; left:70px; width:35%; background-color: white; border:2px solid black; padding:0px 20px 20px 20px; border-radius: 10px; z-index: 1000;}
         <Heading as="h3" variant="section-title">
           Insieme ♥ :
         </Heading>
