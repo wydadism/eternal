@@ -98,21 +98,6 @@ const Home = () => (
           </Link>
           </Paragraph>
       </Section>
-<div id="login">
-        <form class="form-signin">
-            <span id="reauth-email"><h2>Login</h2></span>
-
-            <input type="password" id="inputPassword" placeholder="Password">
-            <div id="remember" class="checkbox">
-            </div>
-            <button class="btn btn-lg btn-primary btn-block btn-signin" id="btn_login" type="submit">Sign in</button>
-        </form>    
-</div>
-<div id="main">
-    <div id="div1">12345</div>
-    <div id="div2">67890</div>
-    <div id="div3">abcde</div>
-</div>   
       <Section delay={0.2}>
           Insieme ♥ :
         </Heading>
