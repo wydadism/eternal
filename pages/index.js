@@ -277,7 +277,7 @@ const Home = () => (
             title="05/04/2022"
             thumbnail={thumbsalma6}
           >
-            Salma katbghini? -Salma : ! ♥
+            Salma katbghini? -Salma : ... ♥
           </GridItem>
           <GridItem
             title="05/04/2022"
@@ -292,7 +292,7 @@ const Home = () => (
             title="05/04/2022"
             thumbnail={thumbsalma8}
           >
-            I cried a lot... ♥
+            I cried a lot... Antsenaha 4 mois mazal :( ♥
           </GridItem>
           <GridItem
             title="05/04/2022"
