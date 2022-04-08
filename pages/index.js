@@ -235,7 +235,7 @@ const Home = () => (
             title="27/03/2022"
             thumbnail={thumbsalma1}
           >
-            Mammamiaaaaaaaa- little mama! ♥
+            Mammamiaaaaaaaa- little mamma! ♥
           </GridItem>
 
          </SimpleGrid> 
