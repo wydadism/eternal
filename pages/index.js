@@ -34,6 +34,16 @@ import thumbYouTubessssss from '../public/images/links/youtube6.png'
 import thumbYouTubesssssss from '../public/images/links/youtube7.png'
 import thumbYouTubessssssss from '../public/images/links/youtube8.png'
 import thumbYouTubesssssssss from '../public/images/links/youtube9.png'
+import thumbsalma from '../public/images/links/youtube10.png'
+import thumbsalma1 from '../public/images/links/youtube11.png'
+import thumbsalma2 from '../public/images/links/youtube12.png'
+import thumbsalma3 from '../public/images/links/youtube13.png'
+import thumbsalma4 from '../public/images/links/youtube14.png'
+import thumbsalma5 from '../public/images/links/youtube15.png'
+import thumbsalma6 from '../public/images/links/youtube16.png'
+import thumbsalma7 from '../public/images/links/youtube17.png'
+import thumbsalma8 from '../public/images/links/youtube18.png'
+import thumbsalma9 from '../public/images/links/youtube19.png'
 import thumbInkdrop from '../public/images/works/inkdrop_eyecatch.png'
 
 const Home = () => (
@@ -214,6 +224,84 @@ const Home = () => (
           </GridItem>
 
         </SimpleGrid>
+                <SimpleGrid columns={[1, 2, 2]} gap={6}>
+          <GridItem
+            title="27/03/2022"
+            thumbnail={thumbsalma}
+          >
+           Mirror selfie With my eternal love! ♥
+          </GridItem>
+          <GridItem
+            title="27/03/2022"
+            thumbnail={thumbsalma1}
+          >
+            Mammamiaaaaaaaa- little mama! ♥
+          </GridItem>
+
+         </SimpleGrid> 
+
+        <SimpleGrid columns={[1, 2, 2]} gap={6}>
+          <GridItem
+            title="27/03/2022"
+            thumbnail={thumbsalma2}
+          >
+            she invited me nanana! ♥
+          </GridItem>
+          <GridItem
+            title="29/03/2021"
+            thumbnail={thumbsalma3}
+          >
+            DIMA MAGHREB ♥ - COMPLEXE MED5! 
+          </GridItem>
+
+         </SimpleGrid>
+
+         <SimpleGrid columns={[1, 2, 2]} gap={6}>
+          <GridItem
+            title="29/03/2022"
+            thumbnail={thumbsalma4}
+          >
+            I am ready to fight FOR your love! ♥
+          </GridItem>
+          <GridItem
+            title="05/04/2022"
+            thumbnail={thumbsalma5}
+          >
+            Its good FOR marking territory, too. ! ♥
+          </GridItem>
+
+         </SimpleGrid>
+          
+           <SimpleGrid columns={[1, 2, 2]} gap={6}>
+          <GridItem
+            title="05/04/2022"
+            thumbnail={thumbsalma6}
+          >
+            Salma katbghini? -Salma : ! ♥
+          </GridItem>
+          <GridItem
+            title="05/04/2022"
+            thumbnail={thumbsalma7}
+          >
+            We made a deal! ♥
+          </GridItem>
+
+         </SimpleGrid>
+          <SimpleGrid columns={[1, 2, 2]} gap={6}>
+          <GridItem
+            title="05/04/2022"
+            thumbnail={thumbsalma8}
+          >
+            I cried a lot... ♥
+          </GridItem>
+          <GridItem
+            title="05/04/2022"
+            thumbnail={thumbsalma9}
+          >
+            She gave me Love Drugs XD! ♥
+          </GridItem>
+
+         </SimpleGrid>
 
       </Section>
     </Container>
